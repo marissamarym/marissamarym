@@ -1,8 +1,6 @@
-### Hi! Welcome to my GitHub page.
+### Hi!
 
-I'm [Marissa](https://m15y.com), the founder of Fabric.
-
-Sign up for the early access [here](https://tryfabric.com).
+I'm Marissa, the founder of [Fabric](https://tryfabric.com).
 
 See my pinned repos for GitHub Actions and resources from Fabric 💙.
 
